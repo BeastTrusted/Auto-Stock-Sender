@@ -7,6 +7,5 @@
 - Nitro / Non Nitro
 - Based In Golang
 
-### Release Date
-
-- __20 Stars To Reveal__
+# Support Server
+### [8113](https://discord.gg/debitcards) [ZetaBoost](https://discord.gg/zetaboosts)
