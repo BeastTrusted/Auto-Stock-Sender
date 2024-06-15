@@ -5,7 +5,7 @@
 - Best Console Logs
 - Multiple Messages For Defferent Guilds
 - Nitro / Non Nitro
-- Based In Golang
+- Based In JavaScript
 
 # Support Server
 ### [8113](https://discord.gg/debitcards) [ZetaBoost](https://discord.gg/zetaboosts)
