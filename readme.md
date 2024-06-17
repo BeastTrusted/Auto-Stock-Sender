@@ -9,3 +9,6 @@
 
 # Support Server
 ### [8113](https://discord.gg/debitcards) [ZetaBoost](https://discord.gg/zetaboosts)
+
+# Credits
+- Aizer | /nukers | Ascii Print
